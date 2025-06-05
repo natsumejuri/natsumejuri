@@ -1,4 +1,4 @@
-# Hello There!👋 This is a Cowgirl🏳️‍⚧️
+# Hello There!👋 This is a cowgirl🏳️‍⚧️
 
 <!--
 **natsumejuri/natsumejuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
