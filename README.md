@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 The girl was born ![HRT](https://img.shields.io/endpoint?url=https://natsumejuri.github.io/date-badge/output/badge.json) ago！🎉
 
+My Programming language:![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsumejuri)](https://github.com/anuraghazra/github-readme-stats)
+
+## About me(In Chinese)
+  00后，大学在读，志向是信息安全方向。如果你觉得我的项目有价值，欢迎Star和Follow，感激不尽！  
+  📮 如果你希望邀请我加入你的团队，可以通过邮箱联系我：natsumejuri@gmail.com  
