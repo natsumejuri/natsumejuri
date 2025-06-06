@@ -22,5 +22,6 @@ My Programming language:![C](https://img.shields.io/badge/C-00599C.svg?logo=c&lo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsumejuri)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me(In Chinese)
-  00后，大学在读。如果你觉得我的项目有价值，欢迎Star和Follow，感激不尽！  
+  00后，大学在读。小时候想学编程，但是身边人没有从事这行业的，于是我在搜索引擎上搜“机器语言”，导致我第一次接触的编程语言是汇编语言，后面学了高级编程语言。  
+  如果你觉得我的项目有价值，欢迎Star和Follow，感激不尽！  
   📮 如果你希望邀请我加入你的团队，可以通过邮箱联系我：natsumejuri@gmail.com  
