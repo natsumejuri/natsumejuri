@@ -20,7 +20,7 @@ The girl was born ![HRT](https://img.shields.io/endpoint?url=https://natsumejuri
 My Programming language:![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsumejuri)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsumejuri&show_icons=true&theme=radical)
 
 ## About me(In Chinese)
   00后，大学在读。如果你觉得我的项目有价值，欢迎Star和Follow，感激不尽！  
