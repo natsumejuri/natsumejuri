@@ -22,6 +22,3 @@ Programming language:![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoC
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsumejuri)  
 
 
-## About me(In Chinese)
-  00后，大学在读。如果你觉得我的项目有价值，欢迎Star和Follow，感激不尽！  
-  📮 如果你希望邀请我加入你的团队，可以通过邮箱联系我：natsumejuri@gmail.com  
